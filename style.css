@@ -1,18 +1,30 @@
 .menu {
    
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:  Arial;
     color: rgb(74, 63, 85);
     text-align: center;
     display: table-cell;
     vertical-align: middle;
+    text-decoration:none 
+
+}
+
+.menu a {
+   
+    text-decoration:none ;
+
+}
+nav a{
+    text-decoration:none ;
+
 }
 header{
     display: table;
 }
 p{
     padding: 10px;
-    text-justify: distribute-all-lines;
+  
 }
 
 footer {
