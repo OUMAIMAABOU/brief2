@@ -6,7 +6,6 @@
     text-align: center;
     display: table-cell;
     vertical-align: middle;
-    text-decoration:none 
 
 }
 
@@ -36,6 +35,10 @@ footer {
     background-color: rgb(42, 9, 185);
     color: white;
   
+  }
+  .section p{
+margin: 20px;
+
   }
 
 
