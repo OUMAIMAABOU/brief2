@@ -21,6 +21,9 @@ nav a{
     text-decoration:none ;
 
 }
+nav  ul{
+    list-style-type: none;
+}
 header{
     display: table;
 }
@@ -40,7 +43,8 @@ footer {
   
   }
   .section p{
-margin: 20px;
+
+padding: 40px;
 
   }
 
