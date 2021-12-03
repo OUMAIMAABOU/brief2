@@ -1,0 +1,30 @@
+.menu {
+   
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(74, 63, 85);
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+header{
+    display: table;
+}
+p{
+    padding: 10px;
+    text-justify: distribute-all-lines;
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(42, 9, 185);
+    color: white;
+  
+  }
+
+
+
