@@ -23,6 +23,7 @@ nav a{
 }
 nav  ul{
     list-style-type: none;
+    display:flex;
 }
 header{
     display: table;
