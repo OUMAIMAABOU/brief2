@@ -25,11 +25,20 @@ section article p{
 }
 nav a{
     text-decoration:none ;
+    size: 20%;
 
 }
 nav  ul{
     list-style-type: none;
     display:flex;
+    padding: 2px;
+
+}
+
+nav  ul a{
+ margin: 12px;
+
+   
 }
 header{
     display: table;
